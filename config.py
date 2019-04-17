@@ -17,4 +17,14 @@ class ProdConfig(Config):
     '''
     pass
 
+class DevConfig(Config):
+    '''
+    Development configuration child class
+
+    Args:
+        Config: The parent configuration class with General confirguration settings
+
+    '''
+
+    DEBUG = True
 
