@@ -22,4 +22,18 @@ An application created using the Flask(Python3 Framework). Main feature is to di
 5. Run the application:
    ```$ ./start.sh ```
 
-6. Now navigate to your browser at: ```localhost:5000```
+6. And finally navigate to your browser at: ```localhost:5000```
+
+## Technologies used
+Flask
+Python 
+HTML
+CSS
+Bootstrap
+
+## Support and contact details
+https://github.com/MarkAgimba
+
+### License
+MIT LICENSE
+Copyright (c) 2019 
